@@ -89,12 +89,16 @@ My professional portfolio and analytics projects
 
 ---
 
-### 📫 Let's Connect
+### 🔗 Socials
 
-📧 davidpruthvi2406@gmail.com  
-📞 +1 (201) 702-4877  
-🔗 [LinkedIn](https://www.linkedin.com/in/davidpruthvirajchepuri)
-
+<p align="left">
+  <a href="mailto:davidpruthvi2406@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/davidpruthvirajchepuri" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 ---
 
 ⭐ **Thanks for visiting my GitHub profile!**
