@@ -22,14 +22,38 @@ My professional portfolio and analytics projects
 
 ### 🧰 Tech Stack
 
-<p>
+<p align="left">
+  <!-- Programming & Analytics -->
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-A6A6A6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Minitab-005B9F?style=for-the-badge&logo=data&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rapid%20Miner-FDB515?style=for-the-badge&logo=data&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Crystal%20Ball-FF9900?style=for-the-badge&logo=oracle&logoColor=white"/>
+  
+  <!-- BI & Visualization -->
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+  <!-- Enterprise -->
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+  
+  <!-- Productivity -->
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+
+  <!-- Other -->
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Storytelling-16A085?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data--Driven%20Decision%20Making-3498DB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-1ABC9C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Requirements%20Documentation-F39C12?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Analytical%20Skills-34495E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Communication%20Skills-27AE60?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Facilitation%20Skills-9B59B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Planning%20&%20Coordination-2ECC71?style=for-the-badge"/>
 </p>
 ---
 
