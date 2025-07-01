@@ -20,15 +20,17 @@ My professional portfolio and analytics projects
 
 ### 🔧 Skills & Tools
 
-**Languages & Analytics:**  
-`SQL` | `Python` | `Excel` | `MATLAB` | `Minitab` | `Crystal Ball` | `RapidMiner`  
-**Data Visualization & BI:**  
-`Tableau` | `Power BI`  
-**Enterprise Systems:**  
-`SAP`  
-**Soft Skills:**  
-`Data-Driven Decision Making` | `Prompt Engineering` | `Communication` | `Planning & Coordination`
+### 🧰 Tech Stack
 
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-A6A6A6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+</p>
 ---
 
 ### 📊 Featured Projects
