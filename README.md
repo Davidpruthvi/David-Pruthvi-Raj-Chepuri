@@ -1,5 +1,3 @@
-# David-Pruthvi-Raj-Chepuri
-My professional portfolio and analytics projects
 <h1 align="center">Hi, I'm David Pruthvi Raj Chepuri 👋</h1>
 
 <p align="center">
